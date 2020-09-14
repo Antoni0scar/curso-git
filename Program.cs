@@ -6,6 +6,7 @@ namespace ControleDeVersoes {
             Console.WriteLine("OlaMundo");
             Console.WriteLine("Correção");
             Console.WriteLine("Como você está?");
+            Console.WriteLine("teste");
 
             Console.ReadLine();
 
